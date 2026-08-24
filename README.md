@@ -18,7 +18,7 @@ F<h1 align="center">Hi there, I'm Anubhav Jha 👋</h1>
 - 💻 Comfortable with **HTML, CSS & JavaScript**
 - 🌱 Exploring backend technologies to become a Full Stack Developer
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/anubhav62-jha?tab=repositories)
-- 📫 Reach me at: **your.anubhavjha896@gmail.com**
+- 📫 Reach me at: **anubhavjha896@gmail.com**
 - ⚡ Fun fact: I love turning ideas into web pages!
 
 ---
